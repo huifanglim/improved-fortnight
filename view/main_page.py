@@ -17,5 +17,5 @@ class MainPage(ttk.Frame):
         )
         self.pack()
 
-        self.label = ttk.Label(self, text="hello")
+        self.label = ttk.Label(self, text="hello world!")
         self.label.pack()
