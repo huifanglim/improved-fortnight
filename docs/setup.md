@@ -8,7 +8,7 @@
 
 4. Enter your password
 
-5. Enter "CREATE DATABASE db" to create a new database, where db is the database name.
+5. Enter "CREATE DATABASE db;" to create a new database, where db is the database name.
 
 6. Enter "\l".
 
