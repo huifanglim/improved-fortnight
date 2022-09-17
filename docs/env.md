@@ -23,3 +23,11 @@ To activate and switch to conda environment.
 ```conda
 conda activate improved-fortnight
 ```
+
+## Install Dependency Package
+
+Install the dependencies in requirements.
+
+```bash
+pip install -r requirements.txt
+```
