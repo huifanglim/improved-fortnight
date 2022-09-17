@@ -3,7 +3,11 @@ from tkinter import ttk
 
 
 class MainPage(ttk.Frame):
-    def __init__(self, parent, controller, *args, **kwargs):
+    def __init__(self,
+                 parent: tk.Tk,
+                 controller,
+                 *args, **kwargs):
+
         self.parent = parent
         self.controller = controller
         super().__init__(
